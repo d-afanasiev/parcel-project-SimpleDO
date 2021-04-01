@@ -1,12 +1,12 @@
 {
-  "name": "parcel-project-template",
+  "name": "parcel-project-SimpleDO",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://d-afanasiev.github.io/parcel-project-template",
+  "homepage": "https://d-afanasiev.github.io/parcel-project-SimpleDO",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /parcel-project-SimpleDO/"
   },
   "repository": {
     "type": "git",
